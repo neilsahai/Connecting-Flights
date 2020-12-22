@@ -1,12 +1,11 @@
-# ferriss2-nsahai4-ytark2
 
 Final Project Repository for cs225 Fall 2020
 
 #### Contributers
 
-* Daniel Ferriss ferriss2
+
 * Neil Sahai nsahai4
-* Youjin Tark ytark2 
+
 
 #### Important links
 
