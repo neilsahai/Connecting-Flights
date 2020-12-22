@@ -1,0 +1,12 @@
+airline,airlineID,sIATA2,2,dIATA3,3,,0,CR1,sdfsdfdsf,
+airline,airlineID,sIATA2,300,dIATA5,5,,0,CR1
+airline,airlineID,sIATA3,3,dIATA1,a,,0,CR1
+airline,airlineID,sIATA3,3,dIATA2,-2,,0,CR1
+airline,airlineID,sIATA3,-3,dIATA3,5,,0,CR1
+airline,airlineID,sIATA4,4,,,,0,CR1
+airline,airlineID,sIATA4,4,dIATA5,4,,0,CR1
+airline,airlineID,sIATA5,5,dIATA5,5,,0,CR1
+airline,airlineID,sIATA5,5,\N,\N,,0,CR1
+airline,airlineID,sIATA5,5,dIATA7,7,,0,CR1
+airline,airlineID,sIATA6,6,dIATA3,3,,0,CR1
+airline,airlineID,sIATA1,1,dIATA2,2,,0,CR1

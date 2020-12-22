@@ -1,0 +1,5 @@
+1,"airport1","city1","country1","IATA1","ICAO1",-10.000000000000001,5.000000001,5282,10,"timezone1","tztimezone1","type1","source1"
+2,"airport2","city2","country2","IATA2","ICAO2",-5.000000000000001,10.000000001,5282,10,"timezone2","tztimezone2","type2","source2"
+3,"airport3","city3","country3","IATA3","ICAO3",0.081689834590001,-10.000000001,5282,10,"timezone3","tztimezone3","type3","source3"
+4,"airport4","city4","country4","IATA4","ICAO4",5.081689834590001,0.000000001,5282,10,"timezone4","tztimezone4","type4","source4"
+5,"airport5","city5","country5","IATA5","ICAO5",10.081689834590001,-5.000000001,5282,10,"timezone5","tztimezone5","type5","source5"

@@ -1,0 +1,14 @@
+airline,airlineID,sIATA1,1,dIATA3,3,,0,CR1
+airline,airlineID,sIATA1,1,dIATA4,4,,0,CR1
+airline,airlineID,sIATA1,1,dIATA5,5,,0,CR1
+airline,airlineID,sIATA2,2,dIATA3,3,,0,CR1
+airline,airlineID,sIATA2,2,dIATA5,5,,0,CR1
+airline,airlineID,sIATA3,3,dIATA1,1,,0,CR1
+airline,airlineID,sIATA3,3,dIATA2,2,,0,CR1
+airline,airlineID,sIATA3,3,dIATA3,5,,0,CR1
+airline,airlineID,sIATA4,4,dIATA1,2,,0,CR1
+airline,airlineID,sIATA4,4,dIATA5,5,,0,CR1
+airline,airlineID,sIATA5,5,dIATA1,1,,0,CR1
+airline,airlineID,sIATA5,5,dIATA2,2,,0,CR1
+airline,airlineID,sIATA5,5,dIATA3,3,,0,CR1
+airline,airlineID,sIATA5,5,dIATA4,4,,0,CR1
